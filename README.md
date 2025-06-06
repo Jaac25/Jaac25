@@ -1,5 +1,5 @@
 # 👋 Hola, soy Alexander!
-Desarrollador fullstack con más de 3 años de experiencia, apasionado por crear soluciones prácticas y escalables. Actualmente desarrollo un software para restaurantes con React, Node.js, TypeScript, AWS y Firebase (repositorio privado): [Texto del enlace](alegriia.com) y dirijo un proyecto con técnicas de NLP.
+Desarrollador fullstack con más de 3 años de experiencia, apasionado por crear soluciones prácticas y escalables. Actualmente desarrollo un software para restaurantes con React, Node.js, TypeScript, AWS y Firebase (repositorio privado): [alegriia.com](alegriia.com) y dirijo un proyecto con técnicas de NLP.
 
 ## 🚀 Tecnologías
 - Frontend: React, Next.js, Tailwind CSS
